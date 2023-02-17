@@ -1,0 +1,20 @@
+{
+  "name": "backup-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backup.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^2.2.0",
+    "dotenv": "^16.0.3",
+    "js": "^0.1.0",
+    "node": "^19.6.0",
+    "nodejs": "^0.0.0",
+    "rsync": "^0.6.1"
+  }
+}
