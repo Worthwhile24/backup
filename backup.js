@@ -4,7 +4,7 @@
 
 
 rsync = new Rsync()
-  
+  .executable("robocopy")
  .flags("a")
 
 
